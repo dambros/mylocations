@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyLocations/MapViewController.swift"
+            timestampString = "502166993.860099"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "MapViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyLocations.MapViewController.(managedObjectContext.didset : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.NSManagedObjectContext&gt;).(closure #1)"
+                  moduleName = "MyLocations"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dambros/Development/ios/raywenderlich/iOS%20Apprentice%205th/MyLocations/MyLocations/MapViewController.swift"
+                  timestampString = "502166234.71372"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "261">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyLocations.MapViewController.(managedObjectContext.didset : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.NSManagedObjectContext&gt;).(closure #1)"
+                  moduleName = "MyLocations"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dambros/Development/ios/raywenderlich/iOS%20Apprentice%205th/MyLocations/MyLocations/MapViewController.swift"
+                  timestampString = "502166234.716297"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "599">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

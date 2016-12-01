@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "LocationDetailsViewController.done() -&gt; ():LocationDetailsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "location.photoID">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MapViewController.(managedObjectContext.didset).(closure #1):MapViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "dictionary[&quot;updated&quot;] as? Set&lt;Location&gt;">
+            </PersistentString>
+            <PersistentString
+               value = "notification.userInfo as? Dictionary&lt;AnyHashable, Set&lt;Location&gt;">
+            </PersistentString>
+            <PersistentString
+               value = "notification.userInfo as! [AnyHashable: Any]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LocationDetailsViewController.tableView(UITableView, heightForRowAt : IndexPath) -&gt; CGFloat:LocationDetailsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "imageView.frame.maxX + imageView.frame.maxY">
+            </PersistentString>
+            <PersistentString
+               value = "imageView.frame">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
